@@ -33,6 +33,12 @@ h1 {
   font-weight: bolder;
 }
 
+p {
+  font-size: 1.5rem;
+  margin: 30px auto 0;
+  line-height: 1;
+}
+
 .main {
   position: relative;
 }
@@ -70,8 +76,7 @@ h1 {
 }
 
 .set {
-  margin: auto;
-  padding: 6rem 10%;
+  padding: 3rem 10% 6.5rem;
 }
 
 .pressed {
